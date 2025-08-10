@@ -16,7 +16,7 @@ This project aims to improve cellular reception on the 1st and 2nd floors of a b
 - Install external and internal antennas with signal boosters 
 - Test and tune the system for optimal performance 
 
-### 🚀 Skills Learned
+## 🚀 Skills Learned
 
 - Project Planning & Execution – Defined objectives, created step-by-step implementation plan, and followed through.
 - System Design – Ability to translate survey data into a working technical layout for coverage improvement.
@@ -25,7 +25,7 @@ This project aims to improve cellular reception on the 1st and 2nd floors of a b
 - Survey & Assessment – Conducted on-site performance evaluations to establish a baseline and guide design.
 - Testing & Continuous Improvement – Measured performance, iterated antenna placement, fine-tuned equipment.
 
-### 🔧 Tools Used
+## 🔧 Tools Used
 
 - Layout & Diagram Tools: Microsoft Visio and Lucidchart.
 - Project Tracking Tools: Jira
@@ -77,7 +77,7 @@ This project aims to improve cellular reception on the 1st and 2nd floors of a b
 
 - Showcased Testing & Continuous Improvement skills with measurable results.
 
-### 📸 Project Images 
+## 📸 Project Images 
 
 Signal Strength Heatmap 
 
@@ -85,7 +85,7 @@ Antenna Layout Diagram
 
 Installation Progress Photos 
 
-### 🔑 Key Takeaways 
+## 🔑 Key Takeaways 
 
 Improved cellular signal reliability on critical floors 
 
@@ -95,7 +95,7 @@ Coordinated cross-team efforts between vendors and internal stakeholders
 
 Gained practical experience in wireless signal enhancement projects 
 
-📎 References 
+## 📎 References 
 
 FCC Guidelines on Cellular Boosters 
 
