@@ -97,7 +97,7 @@ Gained practical experience in wireless signal enhancement projects
 
 ## 📎 References 
 
-FCC Guidelines on Cellular Boosters 
+[FCC Guidelines on Cellular Boosters](https://www.fcc.gov/wireless/bureau-divisions/mobility-division/signal-boosters/consumer-signal-boosters) 
 
 Manufacturer Specs for Antennas and Amplifiers 
 
