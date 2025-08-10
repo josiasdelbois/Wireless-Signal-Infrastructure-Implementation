@@ -30,7 +30,7 @@ This project aims to improve cellular reception on the 1st and 2nd floors of a b
 - Layout & Diagram Tools: Microsoft Visio and Lucidchart.
 - Project Tracking Tools: Jira
 - Documentation Systems: SharePoint (Microsoft)
-- Signal Scanner: weBoost Signal Scanner
+- Signal Scanner: Wilson Pro Cellular Network Scanner 5G
 
 ## 🧪 Project Walkthrough
 
@@ -99,6 +99,8 @@ Gained practical experience in wireless signal enhancement projects
 
 [FCC Guidelines on Cellular Boosters](https://www.fcc.gov/wireless/bureau-divisions/mobility-division/signal-boosters/consumer-signal-boosters) 
 
-Manufacturer Specs for Antennas and Amplifiers 
+[weBoost Specs](https://github.com/josiasdelbois/Wireless-Signal-Infrastructure-Implementation/blob/main/Assets/weBoost%20Technical%20Specs.pdf)
+
+[weBoost installation Guide](https://github.com/josiasdelbois/Wireless-Signal-Infrastructure-Implementation/blob/main/Assets/weBoost%20installation%20Guide.pdf)
 
 Building Floor Plans and Vendor Documentation 
