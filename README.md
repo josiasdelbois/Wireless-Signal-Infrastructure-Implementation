@@ -1,5 +1,5 @@
 
-# Wireless Signal Infrastructure Implementstion
+# Wireless Signal Infrastructure Implementation
 
 ![Antenna Project cover photo](https://github.com/josiasdelbois/Wireless-Signal-Infrastructure-Implementation/blob/main/Assets/Antenna%20Project%20Photo%201.1.png)
 
@@ -7,7 +7,7 @@
 This project aims to improve cellular reception on the 1st and 2nd floors of a building following multiple reports of poor signal quality. The work includes surveying signal strength, mapping weak zones, and designing/installing a booster system with strategically placed antennas to ensure reliable coverage.
 
 > [!NOTE]
-> Floor maps, diagrams, and data in this repository have been intentionally altered to protect security, privacy, and limit liability.
+> This repository references an operational project for an active company. To protect security, ensure privacy, and limit liability, floor maps and signal survey data have been excluded or Obfuscated.
 
 ## 🎯 Objectives 
 
@@ -35,47 +35,35 @@ This project aims to improve cellular reception on the 1st and 2nd floors of a b
 ## 🧪 Project Walkthrough
 
 ✅ Step 1: Signal Survey
-- Conducted comprehensive signal strength scans across targeted floors using the weBoost Signal Scanner.
+- Scanned signal strength using weBoost Signal Scanner.
 
-- Mapped weak zones and dead spots in Microsoft Visio to visualize coverage gaps.
+- Mapped weak zones in Visio to visualize coverage gaps.
 
-- Applied Survey & Assessment skills to establish a reliable performance baseline.
+- Established baseline using Survey & Assessment skills.
 
-✅ Step 2: Design System
-- Translated survey findings into a detailed antenna and booster layout using Lucidchart.
+✅ Step 2: System Design
+- Created antenna and booster layout in Lucidchart.
 
-- Selected optimal equipment based on technical data and compliance requirements.
+- Selected equipment based on specs and compliance.
 
-- Planned coaxial cable routing within ≤100 ft and ensured antenna spacing ≥80 ft to prevent signal overlap.
-
-- Demonstrated System Design and Project Planning & Execution expertise.
+- Planned cable routing and antenna spacing to avoid overlap.
 
 ✅ Step 3: Procurement
-- Gathered vendor quotes for both hardware and installation services.
+- Collected vendor quotes and managed purchase approvals.
 
-- Managed budget coordination by submitting purchase orders and obtaining approvals through corporate channels.
-
-- Coordinated delivery schedules with vendors to align with installation timelines.
-
-- Applied Procurement & Budget Coordination skills in alignment with project deadlines.
+- Scheduled deliveries to align with installation timelines.
 
 ✅ Step 4: Installation
-- Oversaw the installation of directional rooftop antennas and internal dome antennas.
+- Oversaw antenna and booster setup with vendor teams.
 
-- Ensured signal boosters were connected and coaxial cabling was run without extensions to maintain performance integrity.
-
-- Managed vendor teams on-site, ensuring compliance with technical standards and corporate safety guidelines.
-
-- Demonstrated Installation Oversight and cross-team coordination.
+- Ensured cabling met performance and safety standards.
 
 ✅ Step 5: Testing & Optimization
-- Used weBoost Signal Scanner to verify performance improvements in previously weak areas.
+- Verified improvements with signal scanner.
 
-- Adjusted booster gain levels and antenna placement for optimal coverage.
+- Tuned gain levels and antenna placement.
 
-- Documented final configurations and results in SharePoint for reference and future maintenance.
-
-- Showcased Testing & Continuous Improvement skills with measurable results.
+- Documented final setup in SharePoint.
 
 ## 📸 Project Images 
 
@@ -87,7 +75,7 @@ Installation Progress Photos
 
 ## 🔑 Key Takeaways 
 
-Improved cellular signal reliability on critical floors 
+Improved cellular signal reliability on critical floors by %47
 
 Applied technical knowledge of antenna placement and signal boosting 
 
@@ -102,5 +90,3 @@ Gained practical experience in wireless signal enhancement projects
 [weBoost Specs](https://github.com/josiasdelbois/Wireless-Signal-Infrastructure-Implementation/blob/main/Assets/weBoost%20Technical%20Specs.pdf)
 
 [weBoost installation Guide](https://github.com/josiasdelbois/Wireless-Signal-Infrastructure-Implementation/blob/main/Assets/weBoost%20installation%20Guide.pdf)
-
-Building Floor Plans and Vendor Documentation 
