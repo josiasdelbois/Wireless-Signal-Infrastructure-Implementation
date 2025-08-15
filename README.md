@@ -27,10 +27,10 @@ This project aims to improve cellular reception on the 1st and 2nd floors of a b
 
 ## 🔧 Tools Used
 
-- Layout & Diagram Tools: Microsoft Visio and Lucidchart.
-- Project Tracking Tools: Jira
-- Documentation Systems: SharePoint (Microsoft)
-- Signal Scanner: Wilson Pro Cellular Network Scanner 5G
+- Layout & Diagram Tools: <img src="https://github.com/josiasdelbois/Wireless-Signal-Infrastructure-Implementation/blob/main/Assets/Lucidchart_logo_(September_2021).svg.png" width="124" style="vertical-align:middle;">
+- Project Tracking Tools: <img src="https://github.com/josiasdelbois/Wireless-Signal-Infrastructure-Implementation/blob/main/Assets/Jira_Logo.svg.png" width="54" style="vertical-align:middle;">
+- Documentation Systems: <img src="https://github.com/josiasdelbois/Wireless-Signal-Infrastructure-Implementation/blob/main/Assets/Microsoft_Office_SharePoint_(2019%E2%80%93present).svg.png" width="24" style="vertical-align:middle;"> SharePoint (Microsoft)
+- Signal Scanner: Willson Pro Cellular Network Scanner 5G
 
 ## 🧪 Project Walkthrough
 
