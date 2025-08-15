@@ -75,7 +75,7 @@ Installation Progress Photos
 
 ## 🔑 Key Takeaways 
 
-Improved cellular signal reliability on critical floors by %47
+Improved cellular signal reliability on critical floors by 60%
 
 Applied technical knowledge of antenna placement and signal boosting 
 
