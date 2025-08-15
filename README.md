@@ -37,7 +37,7 @@ This project aims to improve cellular reception on the 1st and 2nd floors of a b
 ✅ Step 1: Signal Survey
 - Scanned signal strength using weBoost Signal Scanner.
 
-- Mapped weak zones in Visio to visualize coverage gaps.
+- Mapped weak zones to visualize coverage gaps.
 
 - Established baseline using Survey & Assessment skills.
 
