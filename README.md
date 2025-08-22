@@ -67,7 +67,9 @@ This project aims to improve cellular reception on the 1st and 2nd floors of a b
 
 ## 📸 Project Images 
 
-![Antenna Project cover photo](https://github.com/josiasdelbois/Wireless-Signal-Infrastructure-Implementation/blob/main/Assets/Wireless%20Booster%20Setup%20Diagram.png)
+![Antenna Project cover photo](https://github.com/josiasdelbois/Wireless-Signal-Infrastructure-Implementation/blob/main/Assets/Network%20Diagrams.jpeg)
+
+![Antenna Project cover photo]()
 
 Installation Progress Photos 
 
