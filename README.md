@@ -67,8 +67,6 @@ This project aims to improve cellular reception on the 1st and 2nd floors of a b
 
 ## 📸 Project Images 
 
-Signal Strength Heatmap 
-
 ![Antenna Project cover photo](https://github.com/josiasdelbois/Wireless-Signal-Infrastructure-Implementation/blob/main/Assets/Wireless%20Booster%20Setup%20Diagram.png)
 
 Installation Progress Photos 
