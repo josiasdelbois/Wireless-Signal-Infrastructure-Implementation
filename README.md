@@ -69,19 +69,17 @@ This project aims to improve cellular reception on the 1st and 2nd floors of a b
 
 ![Antenna Project cover photo](https://github.com/josiasdelbois/Wireless-Signal-Infrastructure-Implementation/blob/main/Assets/Network%20Diagrams.jpeg)
 
-![Antenna Project cover photo]()
-
-Installation Progress Photos 
+![Antenna Project cover photo](https://github.com/josiasdelbois/Wireless-Signal-Infrastructure-Implementation/blob/main/Assets/Installation%20Photos.jpg)
 
 ## 🔑 Key Takeaways 
 
-Improved cellular signal reliability on critical floors by 60%
+- Improved cellular signal reliability on critical floors by 60%
 
-Applied technical knowledge of antenna placement and signal boosting 
+- Applied technical knowledge of antenna placement and signal boosting 
 
-Coordinated cross-team efforts between vendors and internal stakeholders 
+- Coordinated cross-team efforts between vendors and internal stakeholders 
 
-Gained practical experience in wireless signal enhancement projects 
+- Gained practical experience in wireless signal enhancement projects 
 
 ## 📎 References 
 
